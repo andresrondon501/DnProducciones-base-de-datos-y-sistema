@@ -1,0 +1,1557 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=utf-8" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="Auditoria_Nueva_DNProducciones.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>andre</o:Author><o:LastAuthor>Andres Rondon</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>2</o:Pages><o:Characters>7657</o:Characters><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOTemplateDocerSaveRecord dt:dt="string" >eyJoZGlkIjoiNzVhYTliYTdkMDkwNjY3NjFjNzFlNGFlZGM4YTY5MzYiLCJ1c2VySWQiOiIxNjUxMDE2OTg3ODUyOCJ9</o:KSOTemplateDocerSaveRecord><o:KSOProductBuildVer dt:dt="string" >2058-12.1.0.29162</o:KSOProductBuildVer><o:ICV dt:dt="string" >573A81FA0CFB467CAA1439C51A45C79E_12</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  QFormat="true"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"SimSun";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Symbol";
+}
+
+@font-face{
+font-family:"Courier New";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Calibri";
+}
+
+@font-face{
+font-family:"Arial";
+}
+
+@list l0:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l0:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l0:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l0:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l1:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l1:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l1:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l2:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:125,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 125,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:161,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 161,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:197,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 197,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:233,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 233,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:269,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 269,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l2:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:305,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 305,0000pt ;font-family:'Times New Roman';font-size:12,0000pt;}
+
+@list l3:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l3:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l3:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l3:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l4:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l4:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l4:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l5:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l5:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l5:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l6:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l6:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l6:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:36,0000pt;
+mso-level-number-position:left;
+margin-left:36,0000pt;text-indent:-18,0000pt;tab-stops:blank 36,0000pt ;font-family:Symbol;font-size:10,0000pt;}
+
+@list l7:level2{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"o";
+mso-level-tab-stop:72,0000pt;
+mso-level-number-position:left;
+margin-left:72,0000pt;text-indent:-18,0000pt;tab-stops:blank 72,0000pt ;font-family:'Courier New';font-size:10,0000pt;}
+
+@list l7:level3{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:108,0000pt;
+mso-level-number-position:left;
+margin-left:108,0000pt;text-indent:-18,0000pt;tab-stops:blank 108,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level4{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:144,0000pt;
+mso-level-number-position:left;
+margin-left:144,0000pt;text-indent:-18,0000pt;tab-stops:blank 144,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level5{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:180,0000pt;
+mso-level-number-position:left;
+margin-left:180,0000pt;text-indent:-18,0000pt;tab-stops:blank 180,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level6{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:216,0000pt;
+mso-level-number-position:left;
+margin-left:216,0000pt;text-indent:-18,0000pt;tab-stops:blank 216,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level7{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:252,0000pt;
+mso-level-number-position:left;
+margin-left:252,0000pt;text-indent:-18,0000pt;tab-stops:blank 252,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level8{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:288,0000pt;
+mso-level-number-position:left;
+margin-left:288,0000pt;text-indent:-18,0000pt;tab-stops:blank 288,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+@list l7:level9{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:"";
+mso-level-tab-stop:324,0000pt;
+mso-level-number-position:left;
+margin-left:324,0000pt;text-indent:-18,0000pt;tab-stops:blank 324,0000pt ;font-family:Wingdings;font-size:10,0000pt;}
+
+p.MsoNormal{
+mso-style-name:Normal;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12,0000pt;
+}
+
+h1{
+mso-style-name:"Título 1";
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:7,5000pt;
+mso-margin-top-alt:auto;
+text-align:center;
+font-family:SimSun;
+color:rgb(47,84,150);
+font-weight:bold;
+font-size:18,0000pt;
+mso-font-kerning:16,0000pt;
+}
+
+h2{
+mso-style-name:"Título 2";
+mso-style-noshow:yes;
+mso-style-next:Normal;
+margin-top:16,5000pt;
+margin-bottom:6,0000pt;
+border-bottom:1,0000pt solid rgb(204,204,204);
+mso-border-bottom-alt:0,7500pt solid rgb(204,204,204);
+padding:0pt 0pt 3pt 0pt ;
+text-align:left;
+font-family:SimSun;
+color:rgb(47,84,150);
+font-weight:bold;
+font-style:italic;
+font-size:15,0000pt;
+}
+
+h3{
+mso-style-name:"Título 3";
+mso-style-noshow:yes;
+mso-style-next:Normal;
+margin-top:10,5000pt;
+margin-bottom:4,5000pt;
+text-align:left;
+font-family:SimSun;
+color:rgb(51,51,51);
+font-weight:bold;
+font-size:13,0000pt;
+}
+
+h4{
+mso-style-name:"Título 4";
+mso-style-noshow:yes;
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-size:12,0000pt;
+}
+
+h5{
+mso-style-name:"Título 5";
+mso-style-noshow:yes;
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-style:italic;
+font-size:10,0000pt;
+}
+
+h6{
+mso-style-name:"Título 6";
+mso-style-noshow:yes;
+mso-style-next:Normal;
+margin-top:5,0000pt;
+margin-bottom:5,0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:SimSun;
+font-weight:bold;
+font-size:7,0000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Courier New';
+font-size:10,0000pt;
+}
+
+span.16{
+font-family:'Times New Roman';
+font-style:italic;
+}
+
+span.17{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+p.pre{
+mso-style-name:"HTML con formato previo";
+margin:0pt;
+margin-bottom:.0001pt;
+tab-stops:left blank 45,8000pt left blank 91,6000pt left blank 137,4000pt left blank 183,2000pt left blank 229,0000pt left blank 274,8000pt left blank 320,6000pt left blank 366,4000pt left blank 412,2000pt left blank 458,0000pt left blank 503,8000pt left blank 549,6000pt left blank 595,4000pt left blank 641,2000pt left blank 687,0000pt left blank 732,8000pt ;
+text-align:left;
+font-family:SimSun;
+font-size:12,0000pt;
+}
+
+p.p{
+mso-style-name:"Normal \(Web\)";
+margin-top:5,0000pt;
+margin-right:0,0000pt;
+margin-bottom:7,5000pt;
+margin-left:0,0000pt;
+mso-margin-top-alt:auto;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12,0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:"Tabla normal";
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0,0000pt 5,4000pt 0,0000pt 5,4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10,0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595,3000pt 841,9500pt;
+mso-header-margin:42,5500pt;
+mso-footer-margin:49,6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p></o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p>&nbsp;</o:p></span></b></h1><h1 align=justify  style="text-indent:144,5500pt;mso-char-indent-count:8,0000;mso-pagination:widow-orphan;
+text-align:justify;text-justify:inter-ideograph;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" >Trabajo Pr&#225;ctico de Auditor&#237;a Inform&#225;tica: Caso "DN Producciones"</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-size:18,0000pt;
+mso-font-kerning:16,0000pt;" ><o:p></o:p></span></b></h1><p class=p  align=center  style="mso-pagination:widow-orphan;text-align:center;mso-line-height-alt:12pt;" ><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >Evaluaci&#243;n pr&#225;ctica de las Unidades 1, 2, 3, 4 y 5 sobre los aciertos, nuevos m&#243;dulos, fallas y vulnerabilidades reales de la aplicaci&#243;n.</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >UNIDAD 1: Fundamentaci&#243;n de la Auditor&#237;a en nuestro Sistema</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></i></b></h2><h3 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Alcance y Objetivos reales en DN Producciones</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >El sistema web de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >DN Producciones</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;(desarrollado en PHP, MySQL con XAMPP y Bootstrap 5) evolucion&#243; para cubrir toda la operaci&#243;n de la productora: </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Activos, Inventario por departamentos, Eventos, Clientes, Movimientos de Entrada/Salida de equipos y Auditor&#237;a de Visitas</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Al auditar esta nueva versi&#243;n del sistema, nos enfocamos en tres objetivos concretos:</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l5 level1 lfo1;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Comprobar que los equipos que salen e ingresan en el m&#243;dulo de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Movimientos</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;cuadren con lo que realmente existe en el almac&#233;n f&#237;sico.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l5 level1 lfo1;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Garantizar que cada rol cumpla estrictamente su funci&#243;n sin invadir &#225;reas ajenas (el </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Admin</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;auditando usuarios y visitas; el </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Jefe General</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;manejando clientes, eventos y movimientos de equipos; y los </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Jefes de Departamento</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;viendo solo lo que corresponde a Sonido, Luces o Pantallas).</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l5 level1 lfo1;" ><![if !supportLists]><span style="font-family:Symbol;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Evaluar qu&#233; tan preparada y segura est&#225; la aplicaci&#243;n para ser utilizada en varios dispositivos online al mismo tiempo.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Lo Bueno (Fortalezas actuales del sistema)</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l1 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Base de Datos Normalizada (1FN, 2FN y 3FN):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Estructuramos las 16 tablas bajo el motor </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >InnoDB</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. No se repiten datos de clientes dentro de los eventos ni datos de equipos dentro de los movimientos; todo se relaciona con llaves for&#225;neas (</span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >FK</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >).</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l1 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Automatizaci&#243;n en Movimientos de Entrada y Salida:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Cuando el Jefe General registra la </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Salida</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;de un equipo hacia un evento, el sistema cambia autom&#225;ticamente el estado del activo a </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"En uso"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. Cuando registra la </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Entrada</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, permite indicar si regres&#243; </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"Disponible"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"En mantenimiento"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;o </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"Da&#241;ado"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, evitando olvidos humanos.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l1 level1 lfo2;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Control de Visitas Semanal y Mensual:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Implementamos en la tabla </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >auditoria_logs</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;un registro autom&#225;tico cada vez que un usuario inicia sesi&#243;n. Solo el </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Admin</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;cuenta con un panel especial dentro de Usuarios para filtrar qui&#233;nes entraron en los &#250;ltimos 7 d&#237;as (semana) o 30 d&#237;as (mes) y cu&#225;ntas veces lo hicieron.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Lo Malo (Fallas, Vulnerabilidades y Riesgos reales que encontramos)</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Haciendo una auditor&#237;a sincera a nuestra propia aplicaci&#243;n, detectamos estas fallas y vulnerabilidades actuales:</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l6 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >1. Contrase&#241;as en texto plano (Falla Cr&#237;tica):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Aunque actualizamos la tabla </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >usuario</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;al nuevo modelo RBAC y la columna se llama </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >password_hash</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, en el c&#243;digo PHP todav&#237;a se guardan y comparan las contrase&#241;as sin encriptar (ej. </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >1234</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;o </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >admin</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >), e incluso se muestran visibles en la tabla de usuarios. Si alguien entra a phpMyAdmin o copia el archivo </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >.sql</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, puede ver todas las claves.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l6 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >2. RBAC Jer&#225;rquico a mitad de camino entre la BD y el C&#243;digo:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;En la base de datos ya creamos las 9 tablas del modelo RBAC Jer&#225;rquico (</span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >rol</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >r_usuario_rol</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >modulo</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >r_modulo_rol</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >vistas</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >permisos</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >vistas_permiso</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >). Sin embargo, en el c&#243;digo PHP de las pantallas todav&#237;a validamos el acceso con condicionales fijos en c&#243;digo (revisando si el rol es </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >admin</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;o </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >jefe_general</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >) en vez de consultar din&#225;micamente la tabla </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >vistas_permiso</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l6 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >3. Auditor&#237;a incompleta en algunos m&#243;dulos:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;La tabla </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >auditoria_logs</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;registra muy bien qui&#233;n entra a la aplicaci&#243;n (visitas por semana o mes) y los movimientos de equipos, pero </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >no guarda rastro</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;si alguien borra un cliente, elimina un evento o modifica las cantidades del inventario. Si un jefe de departamento altera un n&#250;mero en el inventario para ocultar un extrav&#237;o, no queda registrado qu&#233; valor hab&#237;a antes.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l6 level1 lfo3;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >4. Dependencia de un solo equipo local (XAMPP):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Todo el sistema reside en el disco duro de una laptop local. Aunque la bater&#237;a protege contra apagones cortos, si el disco duro falla y no se ha sacado copia en un pendrive o nube, se pierde toda la base de datos.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >UNIDAD 2: Aplicaci&#243;n de los Tipos de Auditor&#237;a al Proyecto</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></i></b></h2><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l7 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Desarrollo:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Al revisar nuestro c&#243;digo PHP y SQL, notamos que aunque usamos </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >real_escape_string</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;para limpiar variables, seguimos armando las consultas SQL concatenando texto en lugar de usar sentencias preparadas (</span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >Prepared Statements</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >). A favor, la base de datos cumple estrictamente las 3 Formas Normales.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l7 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Explotaci&#243;n (Operaci&#243;n diaria):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Eval&#250;a la comodidad y velocidad del sistema. Por ejemplo, detectamos que la pantalla de carga de 3 segundos ralentizaba el trabajo y la bajamos a </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >1.80 segundos</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. Tambi&#233;n valida lo pr&#225;ctico que resulta para el Jefe General registrar primero al </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Cliente</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;(nombre, c&#233;dula y tel&#233;fono) y luego elegirlo de una lista al crear un </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Evento</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l7 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Sistemas y Base de Datos:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Durante la revisi&#243;n en MySQL detectamos tablas antiguas sobrantes (</span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >rm_pagin</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >rm_per</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >eventos_departamentos</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >) que ensuciaban el modelo relacional, por lo que las eliminamos y ordenamos el Dise&#241;ador de phpMyAdmin.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l7 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Redes y Comunicaciones:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Pensando en el uso online desde varios dispositivos, advierte que si conectamos el servidor a una red WiFi o internet, debemos usar </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >HTTPS</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;para que nadie en la red pueda interceptar las contrase&#241;as al iniciar sesi&#243;n.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l7 level1 lfo4;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Seguridad Inform&#225;tica:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Prueba qu&#233; sucede si un t&#233;cnico escribe manualmente en la barra de direcciones </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >clientes.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;o </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >movimientos.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;(el sistema lo bloquea y redirige bien), pero se&#241;ala como urgente aplicar el </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >hasheo</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;real a las claves.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >UNIDAD 3: El Auditor frente a DN Produccione</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >s</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></i></b></h2><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Para auditar este sistema necesitamos un perfil pr&#225;ctico que conozca PHP, MySQL y c&#243;mo opera una productora de eventos:</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l0 level1 lfo5;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >&#201;tica y Confidencialidad:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Ahora la base de datos guarda una tabla de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Clientes</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;con nombres, n&#250;meros de c&#233;dula y tel&#233;fonos reales, adem&#225;s de presupuestos de activos y fechas de eventos privados. El auditor no puede filtrar esa cartera de clientes ni aprovecharse de ver las contrase&#241;as en texto plano.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l0 level1 lfo5;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Enfoque constructivo:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Su papel no es descalificar el sistema por los detalles que le faltan, sino darnos una hoja de ruta clara de qu&#233; corregir antes de subirlo a internet (1&#176; Encriptar claves, 2&#176; Conectar </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >vistas_permiso</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;en todas las p&#225;ginas PHP, 3&#176; Registrar borrados y ediciones en </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >auditoria_logs</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >).</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >UNIDAD 4: Metodolog&#237;a y Pruebas realizadas a la Aplicaci&#243;n</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></i></b></h2><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Aplicamos pruebas directas sobre los m&#243;dulos nuevos y existentes para comprobar d&#243;nde responde bien y d&#243;nde puede fallar:</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level1 lfo6;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Pruebas de Caja Negra (Probando desde las pantallas):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level2 lfo7;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Intentamos registrar dos clientes con la misma c&#233;dula en </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >clientes.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >: el sistema bloque&#243; el registro duplicado y mostr&#243; la alerta correctamente.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level2 lfo7;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Registramos una </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Salida</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;de equipo en </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >movimientos.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y verificamos en </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >activos.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;que el equipo pas&#243; solo a estado </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"En uso"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. Luego registramos su </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Entrada</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;marc&#225;ndolo como </span><i><span class="16"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-style:italic;font-size:12,0000pt;" >"En mantenimiento"</span></i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y comprobamos el cambio autom&#225;tico.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level2 lfo7;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Entramos con una cuenta de t&#233;cnico e intentamos abrir las pesta&#241;as de Clientes, Movimientos y Usuarios: el sistema ocult&#243; los botones y deneg&#243; el acceso directo por URL.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level1 lfo6;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Pruebas de Caja Blanca (Revisando el c&#243;digo interno y la BD):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level2 lfo8;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Al migrar la base de datos al nuevo modelo </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >RBAC Jer&#225;rquico</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, revisamos las consultas internas de </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >login.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >usuarios.php</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;para ajustar los </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >JOIN</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;a las nuevas tablas (</span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >r_usuario_rol</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >rol.nombre_rol</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >) y evitar errores de SQL.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l4 level2 lfo8;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Verificamos en la estructura de MySQL que las 16 tablas tuvieran su llave primaria </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >id</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y sus llaves for&#225;neas activas en motor InnoDB.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" >UNIDAD 5: Herramientas Aplicadas e Informe Final del Auditor</span></i></b><b><i><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(47,84,150);font-weight:bold;font-style:italic;
+font-size:15,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></i></b></h2><h3 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Herramientas utilizadas en nuestra auditor&#237;a</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level1 lfo9;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Trazas y Logs (</span></b><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >auditoria_logs</span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >):</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;Es nuestra herramienta principal dentro del sistema. Entrando como </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Admin</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;al m&#243;dulo de Usuarios, usamos el nuevo apartado de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Auditor&#237;a de Visitas</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;filtrando por </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Esta Semana (7 d&#237;as)</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Este Mes (30 d&#237;as)</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >. Con esto vemos qu&#233; personas han entrado realmente a la aplicaci&#243;n, cu&#225;ntas veces ingresaron y la fecha y hora exacta de su &#250;ltima visita.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level1 lfo9;" ><![if !supportLists]><span style="font-family:Symbol;color:rgb(0,0,0);font-weight:bold;
+font-size:10,0000pt;" ><span style='mso-list:Ignore;' >&#183;<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Checklist de verificaci&#243;n actual:</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;La base de datos cumple con 1FN, 2FN y 3FN? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >S&#205;.</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;Est&#225; creado el modelo RBAC Jer&#225;rquico de 9 tablas en la BD? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >S&#205;.</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;El Jefe General puede agregar Clientes y asignarlos a los Eventos? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >S&#205;.</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;El m&#243;dulo de Movimientos actualiza autom&#225;ticamente el estado de los Activos? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >S&#205;.</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;Solo el Admin puede ver las visitas semanales y mensuales a la aplicaci&#243;n? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >S&#205;.</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;Las contrase&#241;as est&#225;n encriptadas con Hash en el c&#243;digo PHP? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >NO (Falla pendiente por corregir).</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:72,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 72,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l3 level2 lfo10;" ><![if !supportLists]><span style="font-family:'Courier New';mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:10,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >o<span style='font:7.0pt Times New Roman' >&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><font face="Arial" >&#191;Se guardan logs al borrar clientes, eventos o editar inventario? </font></span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >NO (Solo en inicios de sesi&#243;n y movimientos de equipos).</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" >Dictamen y Recomendaciones Finales</span></b><b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(51,51,51);font-weight:bold;font-size:13,0000pt;
+mso-font-kerning:0,0000pt;" ><o:p></o:p></span></b></h3><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >La aplicaci&#243;n de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >DN Producciones</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;cuenta con una base de datos limpia, normalizada en </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >3FN</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y con el modelo </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >RBAC Jer&#225;rquico</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;implementado. Los nuevos m&#243;dulos de </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Clientes</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >, </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Movimientos de Entrada/Salida</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y el </span><b><span class="17"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-weight:bold;font-size:12,0000pt;" >Control de Visitas Semanal/Mensual para el Admin</span></b><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;funcionan correctamente y agilizan el control de la empresa.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;mso-line-height-alt:12pt;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Para corregir las vulnerabilidades detectadas antes de pasar el sistema a producci&#243;n online, se recomienda:</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l2 level1 lfo11;" ><![if !supportLists]><span style="font-family:Arial;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >1.<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Implementar </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >password_hash()</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;y </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >password_verify()</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;en el c&#243;digo PHP para eliminar las contrase&#241;as en texto plano.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l2 level1 lfo11;" ><![if !supportLists]><span style="font-family:Arial;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >2.<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Extender el guardado de </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >auditoria_logs</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;a las acciones de creaci&#243;n, edici&#243;n y eliminaci&#243;n en todas las tablas del sistema.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=justify  style="margin-top:5,0000pt;margin-bottom:4,5000pt;margin-left:36,0000pt;
+mso-margin-top-alt:auto;text-indent:-18,0000pt;tab-stops:left blank 36,0000pt ;
+mso-pagination:widow-orphan;text-align:justify;text-justify:inter-ideograph;
+mso-line-height-alt:12pt;mso-list:l2 level1 lfo11;" ><![if !supportLists]><span style="font-family:Arial;mso-fareast-font-family:SimSun;color:rgb(0,0,0);
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><span style='mso-list:Ignore;' >3.<span>&nbsp;</span></span></span><![endif]><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >Terminar de enlazar la tabla </span><span class="15"  style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;" >vistas_permiso</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+color:rgb(0,0,0);font-size:12,0000pt;mso-font-kerning:0,0000pt;" >&nbsp;directamente en las validaciones de cada archivo PHP.</span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-bottom:12,0000pt;mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:SimSun;
+font-size:12,0000pt;mso-font-kerning:0,0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>
